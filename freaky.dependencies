@@ -1,0 +1,11 @@
+[
+  {
+    "repository" : "iitachiuchiha/kernel_xiaomi_mt6785",
+    "target_path": "kernel/xiaomi/mt6785",
+    "branch" : "ten"
+  },
+  {
+    "repository" : "iitachiuchiha/Freaky_vendor_redmi_begonia",
+    "target_path": "vendor/redmi/begonia"
+  }
+]
